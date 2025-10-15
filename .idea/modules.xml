@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GENERICS/GENERICS.iml" filepath="$PROJECT_DIR$/GENERICS/GENERICS.iml" />
       <module fileurl="file://$PROJECT_DIR$/NOOP_25_26.iml" filepath="$PROJECT_DIR$/NOOP_25_26.iml" />
     </modules>
   </component>
