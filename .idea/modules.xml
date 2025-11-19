@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ADAPTER/ADAPTER.iml" filepath="$PROJECT_DIR$/ADAPTER/ADAPTER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMD/CMD.iml" filepath="$PROJECT_DIR$/CMD/CMD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COMMAND/COMMAND.iml" filepath="$PROJECT_DIR$/COMMAND/COMMAND.iml" />
       <module fileurl="file://$PROJECT_DIR$/FASADA/FASADA.iml" filepath="$PROJECT_DIR$/FASADA/FASADA.iml" />
       <module fileurl="file://$PROJECT_DIR$/GENERICS/GENERICS.iml" filepath="$PROJECT_DIR$/GENERICS/GENERICS.iml" />
       <module fileurl="file://$PROJECT_DIR$/NOOP_25_26.iml" filepath="$PROJECT_DIR$/NOOP_25_26.iml" />
