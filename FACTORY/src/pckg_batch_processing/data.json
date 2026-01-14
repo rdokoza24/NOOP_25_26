@@ -1,0 +1,17 @@
+{
+  "MATH": [
+    { "student_id": 1, "name": "Alice" },
+    { "student_id": 2, "name": "Bob" },
+    { "student_id": 3, "name": "Charlie" }
+  ],
+  "CS": [
+    { "student_id": 4, "name": "Diana" },
+    { "student_id": 5, "name": "Ethan" },
+    { "student_id": 6, "name": "Fiona" }
+  ],
+  "UNIX_OS": [
+    { "student_id": 7, "name": "George" },
+    { "student_id": 8, "name": "Hannah" },
+    { "student_id": 9, "name": "Ivan" }
+  ]
+}

@@ -1,0 +1,15 @@
+10.12.2025. [INFO] This is a random info.
+10.12.2025. [ERROR] This is a random error.
+10.12.2025. [ERROR] This is another random error.
+10.12.2025. [ERROR] This is yet another random error.
+10.12.2025. [WARNING] This is a random warning.
+10.12.2025. [INFO] This is another random info.
+10.12.2025. [INFO] some message 7
+10.12.2025. [WARNING] some message 8
+10.12.2025. [INFO] some message 9
+10.12.2025. [INFO] some message 10
+10.12.2025. [ERROR] some message 11
+10.12.2025. [INFO] some message 12
+10.12.2025. [ERROR] some message 13
+10.12.2025. [WARNING] some message 14
+10.12.2025. [INFO] some message 15
